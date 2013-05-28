@@ -7,7 +7,8 @@ A Clojure library designed to solve the google code jam Problem *Store Credit*
 ## Usage
 
 Running with lein
-lein run -m store-credit.core INPUTFILE OUTPUTFILE
+
+	lein run -m store-credit.core INPUTFILE OUTPUTFILE
 
 ## License
 
